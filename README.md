@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Hi 👋, I'm Bhakti Kawade</font></h1>
-<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/bhakti-kawade-66565a361/" target="_blank" rel="noreferrer">Bhakti</a> is a passionate Technology Enthusiast, learning and experimenting different technologies, frameworks, libraries.</font></h3>
+<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/bhaktikawade/" target="_blank" rel="noreferrer">Bhakti</a> is a passionate Technology Enthusiast, learning and experimenting different technologies, frameworks, libraries.</font></h3>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=bhaktikawade&color=blue)
 
@@ -84,5 +84,7 @@ for key, value in me.items():
 <h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
 <p align="left">
 </p>
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" title="LinkedIn" width="40" height="40"/>
+<a href="https://www.linkedin.com/in/bhaktikawade/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" title="LinkedIn" width="40" height="40"/>
+</a>
 </a>
