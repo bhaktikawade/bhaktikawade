@@ -22,7 +22,7 @@ for key, value in me.items():
 ```
 
 <!-- GIF -->
-<img align="right" height="300" width="500" src="https://user-images.githubusercontent.com/74038190/290079079-231375ce-58a3-4c3b-85c8-44ea51d1318f.gif" />
+<img align="right" height="500" width="500" src="https://user-images.githubusercontent.com/74038190/290079079-231375ce-58a3-4c3b-85c8-44ea51d1318f.gif" />
 
 <!-- Languages and Tools Section -->
 <h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
